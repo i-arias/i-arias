@@ -11,6 +11,7 @@
 | Project | What it does | Stack |
 |---|---|---|
 | [**sugarcane-pol-prediction**](https://github.com/i-arias/sugarcane-pol-prediction) | Sugarcane quality prediction: 9 models benchmarked with temporal validation; in production it detected a systematic bias (95% CI) | Python · XGBoost · LightGBM |
+| [**personal-finance-app**](https://github.com/i-arias/personal-finance-app) | Expense tracker I use daily: automatic Apple Pay capture, duplicate detection, review inbox for anything it can't parse; 159 tests | TypeScript · React · SQL · Cloudflare |
 | [**geih-pipeline**](https://github.com/i-arias/geih-pipeline) | ELT pipeline on Colombia's national labor survey microdata (DANE), checked against the official figures | PostgreSQL · dbt · Airflow · Docker |
 | [**micasense-minas**](https://github.com/i-arias/micasense-minas) | My thesis: landmine detection with multispectral imagery, AUC 0.947 | Python · XGBoost · EasyEnsemble |
 | [**i-arias.github.io**](https://github.com/i-arias/i-arias.github.io) | My bilingual portfolio, built without frameworks | HTML · CSS · JavaScript |
